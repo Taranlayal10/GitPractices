@@ -9,25 +9,8 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        commit1();
-        commit2();
-        commit3();
-        commit4();
-    }
-
-    private void commit1() {
 
     }
 
-    private void commit2() {
 
-    }
-
-    private void commit3() {
-
-    }
-
-    private void commit4() {
-
-    }
 }
