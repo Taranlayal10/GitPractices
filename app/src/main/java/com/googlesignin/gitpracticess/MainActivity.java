@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         commit1();
         commit2();
         commit3();
+        commit4();
     }
 
     private void commit1() {
@@ -23,6 +24,10 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void commit3() {
+
+    }
+
+    private void commit4() {
 
     }
 }
