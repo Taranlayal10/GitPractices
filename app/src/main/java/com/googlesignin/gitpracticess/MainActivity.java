@@ -10,10 +10,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         commit1();
+        commit2();
 
     }
 
     private void commit1() {
+
+    }
+    private void commit2() {
 
     }
 }
